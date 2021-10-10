@@ -1,6 +1,6 @@
 # DSA-assignment
 This is for assignment purpose only
 
--submitted by 
---Shibam Debnath
---Scholar id - 2012181
+Name: Shiabm Debnath
+Scholar Id: 2012181
+
